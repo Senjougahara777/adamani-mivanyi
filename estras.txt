@@ -1,0 +1,70 @@
+<div className=" relative flex mb-6 group hover: bg-slate-700">
+       
+        <div className="w-1/4 text-nowrap text-lg justify-start flex-grow text-gray-400 mr-5 group-hover:bg-slate-700">2018-present</div>
+      
+        <div className=" group-hover:bg-slate-700">
+          <h3 className=" group-hover:bg-slate-700 text-lg text-slate-300  group-hover:text-teal-500 transition-all"> Lead Idiot-Dads Management</h3>
+          <h5 className="  group-hover:bg-slate-700 text-lg text-slate-500" >Senior baka </h5>
+          <h5 className="  group-hover:bg-slate-700 text-lg text-slate-500"> profesional crapper</h5>
+          <p className="  group-hover:bg-slate-700 text-base text-slate-500">
+            {" "}
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque commodi ut, enim culpa doloribus asperiores, explicabo aliquam sapiente dicta necessitatibus accusantium officia vitae ea ab quam cupiditate quidem fugiat esse vero ipsam iure saepe adipisci neque ipsum! Deleniti quod voluptate dolore nam adipisci suscipit quidem sit enim eum eligendi et recusandae itaque vitae, culpa sint praesentium commodi corporis qui consequatur?
+          </p>
+          <div className=" group-hover:bg-slate-700 mt-4 grid grid-cols-5 gap-3 text-center group-[ text-xs ]:">
+            <div className="py-2 rounded-2xl font-bold bg-teal-700 bg-opacity-50 text-teal-300 outline-none"> HTML & CSS </div>
+            <div className="py-2 rounded-2xl font-bold bg-teal-700 bg-opacity-50 text-teal-300 outline-none"> JavaScript </div>
+            <div className="py-2 rounded-2xl font-bold bg-teal-700 bg-opacity-50 text-teal-300 outline-none"> Python </div>
+            <div className="py-2 rounded-2xl font-bold bg-teal-700 bg-opacity-50 text-teal-300 outline-none"> Go </div>
+            <div className="py-2 rounded-2xl font-bold bg-teal-700 bg-opacity-50 text-teal-300 outline-none"> Ruby </div>
+          </div>
+        </div>
+      
+      </div>
+
+      <div className="flex mb-6 bg-slate-700">
+       
+        <div className="w-1/4 text-nowrap text-lg justify-start flex-grow text-gray-400 mr-5">2018-present</div>
+      
+        <div>
+          <h3 className="text-lg text-slate-300"> Lead Idiot-Dads Management</h3>
+          <h5 className="text-lg text-slate-500" >Senior baka </h5>
+          <h5 className="text-lg text-slate-500"> profesional crapper</h5>
+          <p className="text-base text-slate-500">
+            {" "}
+            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nisi, repellat minima eveniet sit tenetur quas ipsam quibusdam voluptatibus sunt quod.
+          </p>
+        </div>
+      
+      </div>
+
+      <div className="flex mb-6">
+       
+        <div className="w-1/4 text-nowrap text-lg justify-start flex-grow text-gray-400 mr-5">2018-present</div>
+      
+        <div>
+          <h3 className="text-lg text-slate-300"> Lead Idiot-Dads Management</h3>
+          <h5 className="text-lg text-slate-500" >Senior baka </h5>
+          <h5 className="text-lg text-slate-500"> profesional crapper</h5>
+          <p className="text-base text-slate-500">
+            {" "}
+            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellendus voluptatibus eaque vitae eligendi mollitia sequi, tempore id? Facilis nulla pariatur nihil ad expedita impedit, dignissimos assumenda vel molestias eaque earum neque quasi vero numquam dolor. Veritatis voluptates quidem consequuntur quibusdam!
+          </p>
+        </div>
+      
+      </div>
+
+      <div className="flex mb-6">
+       
+        <div className="w-1/4 text-nowrap text-lg justify-start flex-grow text-gray-400 mr-5">2018-present</div>
+      
+        <div>
+          <h3 className="text-lg text-slate-300"> Lead Idiot-Dads Management</h3>
+          <h5 className="text-lg text-slate-500" >Senior baka </h5>
+          <h5 className="text-lg text-slate-500"> profesional crapper</h5>
+          <p className="text-base text-slate-500">
+            {" "}
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis cumque dolorum velit qui animi veritatis tempora placeat nesciunt exercitationem ullam? Minus earum nesciunt omnis soluta commodi quis incidunt et quibusdam?
+          </p>
+        </div>
+      
+      </div>
