@@ -55,7 +55,7 @@ const ProjectCard = ({ href, image, title, description, tags }) => {
 const PROJECTS = [
   {
     href: "https://ticketpocket.it.com",
-    image: "public/assets/default1.png",
+    image: "/assets/default1.png",
     title: "The Magnum Opus",
     description:
       "Fully functional ticketing platform ",
@@ -63,21 +63,21 @@ const PROJECTS = [
   },
   {
     href: "https://senjougahara.pythonanywhere.com/",
-    image: "public/assets/default2.png",
+    image: "/assets/default2.png",
     title: "Form Collection/Survey Management System",
     description:
       "A system built to curb ITF (Industrial Training Fund)'s problem of manual data collection and sorting difficulties that come with the pre-established file collection system.",
     tags: ["Python", "HTML & CSS", "JavaScript", "Django"],
   },
   {
-    image: "public/assets/default3.png",
+    image: "/assets/default3.png",
     title: "Don't Even Know the Details of This One",
     description:
       "Forced to build this as an overworked intern — it's more of a shell for a customizable web application.",
     tags: ["HTML & CSS", "Python", "Bootstrap", "Django"],
   },
   {
-    image: "public/assets/default4.png",
+    image: "/assets/default4.png",
     title: "The Portfolio Site",
     description:
       "I wonder what could be said about this one — heavily inspired by Brittany Chiang's portfolio site, some would even say an homage to it.",
@@ -85,7 +85,7 @@ const PROJECTS = [
   },
   {
     href: "https://girls-reach-out.web.app",
-    image: "public/assets/default5.jpeg",
+    image: "/assets/default5.jpeg",
     title: "Unidentified NGO",
     description:
       "I wonder what could be said about this one — heavily inspired by Brittany Chiang's portfolio site, some would even say an homage to it.",
