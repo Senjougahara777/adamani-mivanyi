@@ -18,25 +18,25 @@ const SOCIAL_LINKS = [
   {
     id: "gmail",
     href: "mailto:youremail@gmail.com",
-    icon: "src/assets/gmail-svgrepo-com.svg",
+    icon: "public/assets/gmail-svgrepo-com.svg",
     label: "Email me",
   },
   {
     id: "instagram",
     href: "https://instagram.com/yourhandle",
-    icon: "src/assets/instagram-167-svgrepo-com.svg",
+    icon: "public/assets/instagram-167-svgrepo-com.svg",
     label: "Instagram",
   },
   {
     id: "whatsapp",
     href: "https://wa.me/yournumber",
-    icon: "src/assets/whatsapp-svgrepo-com.svg",
+    icon: "public/assets/whatsapp-svgrepo-com.svg",
     label: "WhatsApp",
   },
   {
     id: "youtube",
     href: "https://youtube.com/@yourchannel",
-    icon: "src/assets/youtube-svgrepo-com.svg",
+    icon: "public/assets/youtube-svgrepo-com.svg",
     label: "YouTube",
   },
 ];
